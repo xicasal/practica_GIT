@@ -1,1 +1,1 @@
-# practica_GIT
+This is a README file
